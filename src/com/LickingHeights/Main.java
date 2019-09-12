@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.print.outln ("Hello");
-        System.print.outln ("World");
+        System.print.outln ("Earth");
 
     }
 }
