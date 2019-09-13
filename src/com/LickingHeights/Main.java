@@ -7,13 +7,13 @@ public class Main {
         System.out.println("Earth");
         String firstWord;
         String secondWord;
+        int firstNumber , secondNumber;
 
-        int firstWord , secondWord;
 
-
-        firstWord = "";
-        secondWord = ""
-
+        firstWord = "Rainbow";
+        secondWord = "Gold";
+        firstNumber = " ";
+        secondNumber = " ";
 
     }
 }
