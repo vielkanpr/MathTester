@@ -12,7 +12,7 @@ public class Main {
 
         firstWord = "Rainbow";
         secondWord = "Gold";
-        firstNumber = 110;
+        firstNumber = 115;
         secondNumber = 235;
 
         System.out.println(firstWord+secondWord);
