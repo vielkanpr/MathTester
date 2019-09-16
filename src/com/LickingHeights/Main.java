@@ -17,5 +17,6 @@ public class Main {
 
         System.out.println(firstWord+secondWord);
         System.out.println(firstNumber+secondNumber);
+        System.out.println(firstWord+firstNumber);
     }
 }
