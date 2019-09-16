@@ -12,14 +12,15 @@ public class Main {
 
         firstWord = "Rainbow";
         secondWord = "Gold";
-        firstNumber = 115;
-        secondNumber = 235;
+        firstNumber = 10;
+        secondNumber = 200;
 
         System.out.println(firstWord+secondWord);
         System.out.println(firstNumber+secondNumber);
         System.out.println(firstWord+firstNumber);
         System.out.println(secondNumber-firstNumber);
         System.out.println(firstNumber-secondNumber);
+
 
     }
 }
